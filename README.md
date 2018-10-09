@@ -1,5 +1,4 @@
 # Cellular-Automata-ScreenSaver-SFML
-============
 
 C++ implementation cellular automata with graphical presentation using SFML library. The program provides some control, press F1 to see information. It can be used as primitive screensaver, just change extension of .exe file to .scr then install it.
 
