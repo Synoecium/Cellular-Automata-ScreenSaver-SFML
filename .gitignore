@@ -28,3 +28,7 @@
 # Executables
 *.out
 *.app
+
+# Codeblocks temp files
+*.layout
+*.depend
